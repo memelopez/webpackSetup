@@ -17,7 +17,7 @@ function component() {
 
   element.appendChild(myIcon);
 
-  // Add button that prints to console
+  // Add button that prints to console!
   btn.innerHTML = 'Click me and check the console!';
   btn.onclick = printMe;
 
